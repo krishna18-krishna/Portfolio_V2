@@ -314,7 +314,6 @@ h2 span {
     padding: 2rem;
     border-radius: 15px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    cursor: pointer;
 }
 
 .education-card:hover {
@@ -409,7 +408,6 @@ h2 span {
     padding: 2rem;
     border-radius: 15px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    cursor: pointer;
 }
 
 .skill-card:hover {
